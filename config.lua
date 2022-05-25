@@ -546,7 +546,7 @@ Config.Products = {
 Config.Locations = {
     -- 24/7 Locations
     ["247supermarket"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(24.47, -1346.62, 29.5, 271.66),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -560,7 +560,7 @@ Config.Locations = {
     },
 
     ["247supermarket2"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(-3039.54, 584.38, 7.91, 17.27),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -574,7 +574,7 @@ Config.Locations = {
     },
 
     ["247supermarket3"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(-3242.97, 1000.01, 12.83, 357.57),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -588,7 +588,7 @@ Config.Locations = {
     },
 
     ["247supermarket4"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(1728.07, 6415.63, 35.04, 242.95),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -602,7 +602,7 @@ Config.Locations = {
     },
 
     ["247supermarket5"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(1959.82, 3740.48, 32.34, 301.57),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -616,7 +616,7 @@ Config.Locations = {
     },
 
     ["247supermarket6"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(549.13, 2670.85, 42.16, 99.39),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -630,7 +630,7 @@ Config.Locations = {
     },
 
     ["247supermarket7"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(2677.47, 3279.76, 55.24, 335.08),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -644,7 +644,7 @@ Config.Locations = {
     },
 
     ["247supermarket8"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(2556.66, 380.84, 108.62, 356.67),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -658,7 +658,7 @@ Config.Locations = {
     },
 
     ["247supermarket9"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(372.66, 326.98, 103.57, 253.73),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -671,9 +671,9 @@ Config.Locations = {
         ["blipcolor"] = 0
     },
 
-    -- 24/7 Supermarket Locations
+    -- LTD Gasoline Locations
     ["ltdgasoline"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "LTD Gasoline",
         ["coords"] = vector4(-47.02, -1758.23, 29.42, 45.05),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -687,7 +687,7 @@ Config.Locations = {
     },
 
     ["ltdgasoline2"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "LTD Gasoline",
         ["coords"] = vector4(-706.06, -913.97, 19.22, 88.04),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -701,7 +701,7 @@ Config.Locations = {
     },
 
     ["ltdgasoline3"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "LTD Gasoline",
         ["coords"] = vector4(-1820.02, 794.03, 138.09, 135.45),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -715,7 +715,7 @@ Config.Locations = {
     },
 
     ["ltdgasoline4"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "LTD Gasoline",
         ["coords"] = vector4(1164.71, -322.94, 69.21, 101.72),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -729,7 +729,7 @@ Config.Locations = {
     },
 
     ["ltdgasoline5"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "LTD Gasoline",
         ["coords"] = vector4(1697.87, 4922.96, 42.06, 324.71),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -744,7 +744,7 @@ Config.Locations = {
 
     -- Rob's Liquor Locations
     ["robsliquor"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(-1221.58, -908.15, 12.33, 35.49),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -758,7 +758,7 @@ Config.Locations = {
     },
 
     ["robsliquor2"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(-1486.59, -377.68, 40.16, 139.51),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -772,7 +772,7 @@ Config.Locations = {
     },
 
     ["robsliquor3"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(-2966.39, 391.42, 15.04, 87.48),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -786,7 +786,7 @@ Config.Locations = {
     },
 
     ["robsliquor4"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(1165.17, 2710.88, 38.16, 179.43),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -800,7 +800,7 @@ Config.Locations = {
     },
 
     ["robsliquor5"] = {
-        ["label"] = "24/7 Supermarket",
+        ["label"] = "Rob's Liqour",
         ["coords"] = vector4(1134.2, -982.91, 46.42, 277.24),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
