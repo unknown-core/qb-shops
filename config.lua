@@ -626,7 +626,7 @@ Config.Locations = {
 
     -- Rob's Liquor Locations
     ["robsliquor"] = {
-        ["label"] = "Rob's Liqour",
+        ["label"] = "24/7 Supermarket",
         ["coords"] = vector4(-1221.58, -908.15, 12.33, 35.49),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -640,7 +640,7 @@ Config.Locations = {
     },
 
     ["robsliquor2"] = {
-        ["label"] = "Rob's Liqour",
+        ["label"] = "24/7 Supermarket",
         ["coords"] = vector4(-1486.59, -377.68, 40.16, 139.51),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -654,7 +654,7 @@ Config.Locations = {
     },
 
     ["robsliquor3"] = {
-        ["label"] = "Rob's Liqour",
+        ["label"] = "24/7 Supermarket",
         ["coords"] = vector4(-2966.39, 391.42, 15.04, 87.48),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -668,7 +668,7 @@ Config.Locations = {
     },
 
     ["robsliquor4"] = {
-        ["label"] = "Rob's Liqour",
+        ["label"] = "24/7 Supermarket",
         ["coords"] = vector4(1165.17, 2710.88, 38.16, 179.43),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
@@ -682,7 +682,7 @@ Config.Locations = {
     },
 
     ["robsliquor5"] = {
-        ["label"] = "Rob's Liqour",
+        ["label"] = "24/7 Supermarket",
         ["coords"] = vector4(1134.2, -982.91, 46.42, 277.24),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
